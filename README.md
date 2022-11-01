@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Meu nome é Nicholas Andrade do Nascimento.
 
 <!--
 **NicholasNascimento/NicholasNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Meu nome é Nicholas Andrade do Nascimento.
 
 . 🔭 Atualmente tenho trabalhado como freelancer e busco oportunidades com front-end.
 . 💜 Minha linguagem de programação de maior afinidade é Javascript/Typescript.
