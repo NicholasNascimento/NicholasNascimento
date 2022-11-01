@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 . 💜 Minha linguagem de programação de maior afinidade é Javascript/Typescript.
 . 💻 Possuo experiência com a utilização das ferramentas ReactJS e NextJS.
 . 📫 Contato: nicholas.an99@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasNascimento)](https://github.com/anuraghazra/github-readme-stats)
